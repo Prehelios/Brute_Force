@@ -19,6 +19,8 @@ git clone https://github.com/Prehelios/Brute_Force.git
 
 cd Brute_Force-main
 
+![Capture](https://github.com/user-attachments/assets/abf609c1-9e25-4f63-8dbf-566be90a2377)
+
 Run the Script:
 
     python brute_force.py
