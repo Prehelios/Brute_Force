@@ -15,7 +15,7 @@ Usage
 
     bash
 
-git clone https://github.com/yourusername/brute-force-password-cracker.git
+git clone https://github.com/Prehelios/Brute_Force/blob/main/brute_force.py
 cd brute-force-password-cracker
 
 Run the Script:
