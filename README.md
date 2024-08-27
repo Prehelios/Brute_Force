@@ -21,9 +21,7 @@ cd Brute_Force-main
 
 Run the Script:
 
-bash
-
-    python bruteforce_pro.py
+    python brute_force.py
 
     Follow the On-Screen Prompts:
         Enter the hash type (md5 or sha1).
@@ -32,6 +30,9 @@ bash
 
     Wait for Results:
         The script will display the cracked password (if found), the total number of attempts, and the time taken.
+
+        ![Capture](https://github.com/user-attachments/assets/abf609c1-9e25-4f63-8dbf-566be90a2377)
+
 
 Important Notice
 
